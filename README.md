@@ -1,2 +1,2 @@
 # TheReviewsScraping
-Scraping  reviews from the site Trustpilot
+Scraping and analysing reviews of WesternUnion for the last couple months. Reviews taken from trustpilot.com
